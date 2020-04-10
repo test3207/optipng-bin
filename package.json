@@ -1,6 +1,6 @@
 {
 	"name": "optipng-bin",
-	"version": "6.0.0",
+	"version": "0.0.1",
 	"description": "OptiPNG wrapper that makes it seamlessly available as a local dependency",
 	"license": "MIT",
 	"repository": "imagemin/optipng-bin",
@@ -18,7 +18,7 @@
 		"index.js",
 		"cli.js",
 		"lib",
-		"vendor/source"
+		"vendor"
 	],
 	"keywords": [
 		"imagemin",
